@@ -31,7 +31,7 @@ B - Movies with highest profit:
 
 To filter rows on the basis of gender that are hired, we can use COUNTIFS function in MS Excel.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/hashimali179/Trainity-Projects/blob/main/5%20-%20IMDB%20Movie%20Analysis/Picture2.png)
 
 The above chart shows the relationship between budget and profit. It has a very low positive correlation.
 
@@ -340,7 +340,7 @@ List of Genres with highest average IMDB ratings -
 
 F - Charts:
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/hashimali179/Trainity-Projects/blob/main/5%20-%20IMDB%20Movie%20Analysis/Picture1.png)
 
 The above chart shows the number of users that voted in each decade.
 
