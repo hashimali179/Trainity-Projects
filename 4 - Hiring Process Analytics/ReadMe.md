@@ -79,11 +79,13 @@ But first we have to make Pivot table that shows the _count_ of employees in eac
 
 Now we can insert bar chart and pie charts.
 
-![](RackMultipart20230403-1-zrw4ch_html_9001a339c3fee23d.gif)
+![alt text](https://github.com/hashimali179/Trainity-Projects/blob/main/4%20-%20Hiring%20Process%20Analytics/bar%20chart.png)
+
 
 Bar Chart
 
-![](RackMultipart20230403-1-zrw4ch_html_c82262336fb75da.gif)
+![alt text](https://github.com/hashimali179/Trainity-Projects/blob/main/4%20-%20Hiring%20Process%20Analytics/pie%20chart.png)
+
 
 Pie chart
 
@@ -91,7 +93,8 @@ E - Charts:
 
 I have prepared a chart that shows average salary offered to each post tier.
 
-![](RackMultipart20230403-1-zrw4ch_html_93023d990fe9b1b0.gif)
+![alt text](https://github.com/hashimali179/Trainity-Projects/blob/main/4%20-%20Hiring%20Process%20Analytics/last%20chart.png)
+
 
 Results –
 
