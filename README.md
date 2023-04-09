@@ -1,5 +1,7 @@
 # Trainity-Projects
 
+To check projects, open respective folders read ReadMe file or you can also download DOCX/PDF/IPYNB/XLSX files.
+
 These are the topics and tech stacks that heve been covered/learned while doing 8 projects.
 
 <h3> 1) Exploratory Data Analysis</h3>
