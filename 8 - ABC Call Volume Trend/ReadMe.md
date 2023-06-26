@@ -49,7 +49,7 @@ Insights:
 - The average call time duration for all incoming calls received by agents is the highest in between 10 am to 11 am and from 7 pm to 8 pm
 - The average call time duration for all incoming calls received by agents is the least in between 12 noon to 1 pm.
 
-1. Show the total volume/ number of calls coming in via charts/ graphs [Number of calls v/s Time]. You can select time in a bucket form (i.e. 1-2, 2-3, …..)
+2. Show the total volume/ number of calls coming in via charts/ graphs [Number of calls v/s Time]. You can select time in a bucket form (i.e. 1-2, 2-3, …..)
 
 | **Time Bucket** | **No. of calls** |
 | --- | --- |
@@ -75,7 +75,7 @@ Insights:
 - The customers call the most in between 11 am to 12 noon.
 - The customers call the least in between 8 pm to 9 pm.
 
-1. As you can see current abandon rate is approximately 30%. Propose a manpower plan required during each time bucket [between 9am to 9pm] to reduce the abandon rate to 10%. (i.e. You have to calculate minimum number of agents required in each time bucket so that at least 90 calls should be answered out of 100.)
+3. As you can see current abandon rate is approximately 30%. Propose a manpower plan required during each time bucket [between 9am to 9pm] to reduce the abandon rate to 10%. (i.e. You have to calculate minimum number of agents required in each time bucket so that at least 90 calls should be answered out of 100.)
 
 | Time Bucket | Number of calls | % of calls inbound | Required Agents |
 | --- | --- | --- | --- |
@@ -155,7 +155,7 @@ total agent = 187.96/5 = 37.59
 4. Total agents required to answer the 90% of the calls per day is 56.
 5. The minimum number of agents required for each time bucket is calculated by 56 \* count of time (calculated in the 2nd question).
 
-1. Let's say customers also call this ABC insurance company in night but didn't get answer as there are no agents to answer, this creates a bad customer experience for this Insurance company. Suppose every 100 calls that customer made during 9 Am to 9 Pm, customer also made 30 calls in night between interval [9 Pm to 9 Am] and distribution of those 30 calls are as follows:
+4. Let's say customers also call this ABC insurance company in night but didn't get answer as there are no agents to answer, this creates a bad customer experience for this Insurance company. Suppose every 100 calls that customer made during 9 Am to 9 Pm, customer also made 30 calls in night between interval [9 Pm to 9 Am] and distribution of those 30 calls are as follows:
 
 Now propose a manpower plan required during each time bucket in a day. Maximum Abandon rate assumption would be same 10%.
 
